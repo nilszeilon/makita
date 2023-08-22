@@ -15,7 +15,7 @@ const config = {
 		adapter: adapter(),
 
 		paths: {
-			base: 'https://username.github.io/makita/'
+			base: 'https://nilszeilon.github.io/makita/'
 		},
 	}
 };
